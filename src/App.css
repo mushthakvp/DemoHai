@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,31 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.sectionOne{
+  background-color: rgb(255, 252, 252);
+  height: 60vh;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphicsfamily.com%2Fdownloads%2Ffree-photoshop-online-shopping-ad-banner%2F&psig=AOvVaw1Btg5BVjJpcbs5VRoFJoeo&ust=1705589871368000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiAxMnX5IMDFQAAAAAdAAAAABAE'); */
 }
+
+.image-background{
+  background-image: url('../public/pic.png');
+  
+  
+}
+
+
+
+
+.SectionTwo{
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+}
+
